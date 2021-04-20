@@ -19,9 +19,14 @@ body{
 img {
   justify-content: center;
   position: relative;
-  width: 468px;
+  width: 467px;
   height: auto;
   display: flex;
+}
+
+video {
+  Width: 467px;
+
 }
 
 
